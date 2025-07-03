@@ -9,7 +9,7 @@ Developed for **IESL RoboGames 2024**, organized by the **University of Moratuwa
 This robot is designed to:
 
 <ul>
-<li>Follow a predefined black line on a track</li>
+<li>Navigate an arena by **wall-following**</li>
 <li>Detect a specific color sequence:🔴 Red → 🟡 Yellow → 🌸 Pink → 🟤 Brown → 🟢 Green</li>
 <li>Simulate a "plucking" action when each target color is detected</li>
 </ul></br>
@@ -23,7 +23,7 @@ This robot is designed to:
 📏 Line Following (Simulated IR/reflectance sensors)<br><br>
 
 
-<h2>📁 Project Structure</h2>
+<h2>📽️ Video</h2>
 
 Demo Video => [line following robot video file](https://github.com/mohomad-nizlan/line-follower-eplucker-robot/blob/main/Line%20Following%20Robot%20Video%20Demo.mp4)<br><br>
 
