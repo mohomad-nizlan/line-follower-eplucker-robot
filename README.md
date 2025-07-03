@@ -9,7 +9,7 @@ Developed for **IESL RoboGames 2024**, organized by the **University of Moratuwa
 This robot is designed to:
 
 <ul>
-<li>Navigate an arena by **wall-following**</li>
+<li>Navigate an arena by wall-following</li>
 <li>Detect a specific color sequence:🔴 Red → 🟡 Yellow → 🌸 Pink → 🟤 Brown → 🟢 Green</li>
 <li>Simulate a "plucking" action when each target color is detected</li>
 </ul></br>
