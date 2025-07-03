@@ -1,6 +1,6 @@
 <h1>🤖 E-Plucker Robot — Webots Simulation</h1>
 
- line-following and color-detecting e-plucker robot** simulated in **Webots** using **Python**.  
+ line-following and color-detecting **e-plucker robot** simulated in **Webots** using **Python**.  
 Developed for **IESL RoboGames 2024**, organized by the **University of Moratuwa**.<br><br>
 
 
@@ -25,7 +25,7 @@ This robot is designed to:
 
 <h2>📁 Project Structure</h2>
 
-Demo Video => [line following robot video file]()<br><br>
+Demo Video => [line following robot video file](https://github.com/mohomad-nizlan/line-follower-eplucker-robot/blob/main/Line%20Following%20Robot%20Video%20Demo.mp4)<br><br>
 
 
 <h2>🚀 Getting Started</h2>
