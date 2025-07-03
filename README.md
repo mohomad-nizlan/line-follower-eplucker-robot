@@ -48,14 +48,14 @@ Perform a simulated plucking action at each color<br><br>
 
 <h2>🏁 Competition</h2>
 
-🛡️ Built for IESL RoboGames 2024
-🏫 Organized by the University of Moratuwa
+🛡️ Built for IESL RoboGames 2024<br>
+🏫 Organized by the University of Moratuwa<br>
 🎓 Category: Simulated Robotics – E-Plucker<br><br>
 
 
 <h2>🙌 Acknowledgements</h2>
 
-👥 Team: Syntax Squad
+👥 Team: Syntax Squad<br>
 University of Moratuwa – Department of  Computer Science & Engineering<br>
 IESL RoboGames 2024 Organizing Committee<br>
 Webots by Cyberbotics Ltd<br><br>
